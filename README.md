@@ -68,7 +68,7 @@ Uncovering patterns, trends, and business insights from historical data !
 
 ## Dashboard
 
-![Vendor Performance Dashboard](Images/dashboard.jpg)
+![Regional Sales Dashboard](images/dashboard3.jpg)
 
 ## Final & Reccomendation
 
