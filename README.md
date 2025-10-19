@@ -91,7 +91,7 @@ git -https://github.com/simransaini0212-tech/regional-sales-analysis-sql-python-
 
 2. Create regional sales summary tables:
 
-python [regional sales summary](Regional sales analysis.ipynb)
+python - [regional sales summary](Regional sales analysis.ipynb)
 
 3. Open Power BI Dashboard:
  - https://drive.google.com/file/d/1CPbKSRfzUfzXY77vFb8qJg4KpwIHxC3K/view?usp=sharingharing
